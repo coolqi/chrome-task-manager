@@ -1,6 +1,7 @@
 ### 极简任务管理器 Chrome 扩展
 
 一个极简风格的任务管理 Chrome 扩展，帮助您高效管理日常任务。该扩展采用原生 JavaScript 开发，无需依赖框架，体积小巧，加载迅速。
+<img width="394" alt="image" src="https://github.com/user-attachments/assets/4a261af4-5acd-400e-bf7b-8f9cbdd8c83f" />
 
 
 ## 功能特点
